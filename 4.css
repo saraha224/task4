@@ -1,0 +1,41 @@
+
+// selcter all elements with class "p" and add event listener
+// tag neamd "p" and add event listener 
+
+
+p {
+    color:blue;  
+    font-Size : 20px;
+}    
+
+
+
+h2 {
+    color: green ;  
+    font-size: 30px ;
+    font-fiamily : Arial ;  // عائله الخظوط 
+  
+}     
+
+
+#happy{
+    color: red ;   
+    font-weight: bold ;
+    font-weight: 200 ; // يونت معينه ماعندها وزن
+    font-weight: noramle ; // يونت معينه ماعندها وزن 
+    text- Decoration: none ; // مظهر الخط
+}
+ 
+.S{
+    color: rgb(128, 155, 128);  
+     text-align : center ; // عطاء الارقام في ميدان الوسط
+} 
+
+.o{
+    color: rgb(35, 45, 92);  
+     text-align : center ; // عطاء الارقام في ميدان الوسط 
+     marign : 10px ; // مسافه بين العناصر    
+     padding: 13px ; // مسافه بين العناصر      
+}      
+
+
